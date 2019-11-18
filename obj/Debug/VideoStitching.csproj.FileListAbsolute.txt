@@ -1,0 +1,12 @@
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\bin\Debug\VideoStitching.exe.config
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\bin\Debug\VideoStitching.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\bin\Debug\VideoStitching.pdb
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\obj\Debug\VideoStitching.csprojResolveAssemblyReference.cache
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\obj\Debug\VideoStitching.exe
+c:\users\beyondtech\documents\visual studio 2013\Projects\VideoStitching\VideoStitching\obj\Debug\VideoStitching.pdb
+D:\esty\ASP\github\VideoStitching\VideoStitching\bin\Debug\VideoStitching.exe.config
+D:\esty\ASP\github\VideoStitching\VideoStitching\obj\Debug\VideoStitching.exe
+D:\esty\ASP\github\VideoStitching\VideoStitching\obj\Debug\VideoStitching.pdb
+D:\esty\ASP\github\VideoStitching\VideoStitching\bin\Debug\VideoStitching.exe
+D:\esty\ASP\github\VideoStitching\VideoStitching\bin\Debug\VideoStitching.pdb
+D:\esty\ASP\github\VideoStitching\VideoStitching\obj\Debug\VideoStitching.csprojResolveAssemblyReference.cache
